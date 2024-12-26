@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=80E6FF&height=150&section=header&text=ms214&fontAlign=85&fontAlignY=30&desc=🐤&descAlign=92&descAlignY=50&fontSize=50&fontColor=fff&animation=twinkling)](https://github.com/ms214)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms214)](https://github.com/ms214/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms214&layout=compact)](https://github.com/ms214/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsoomark)](https://solved.ac/minsoomark/)
 
 - 📫 How to reach me:   
